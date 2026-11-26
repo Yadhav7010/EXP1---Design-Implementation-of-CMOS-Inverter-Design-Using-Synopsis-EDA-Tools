@@ -49,7 +49,8 @@ To design and simulate a CMOS inverter circuit using Synopsys EDA tools, analyze
 
 #### 2. Schematic of CMOS Inverter:
 
-   <img width="771" height="697" alt="WhatsApp Image 2026-10-29 at 3 27 55 PM (1)" src="https://github.com/user-attachments/assets/df19a31e-89e7-4f0f-8454-b0a2bc0ca249" />
+<img width="1600" height="998" alt="b45afa9e-d9dd-4f2d-905a-ee59f4913ea3" src="https://github.com/user-attachments/assets/381fae21-8281-478b-baa7-fdc8f94bcb80" />
+
 
 
 #### 3. Transient Response Setup:
